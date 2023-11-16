@@ -1,7 +1,7 @@
 # Templates_FastAPI
 Web-приложение для определения заполненных форм.
 ___
-##Стек
+## Стек
 Python, FastAPI, Mongodb
 ___
 ## Установка
