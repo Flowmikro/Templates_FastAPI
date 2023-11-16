@@ -1,5 +1,5 @@
 # Заполняет БД записями
-from database import collection
+from .database import collection
 
 db_templates = [
     {
