@@ -1,3 +1,4 @@
+# Маршруты
 from fastapi import APIRouter
 
 from .service import define_a_template
