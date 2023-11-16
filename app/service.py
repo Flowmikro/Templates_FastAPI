@@ -1,6 +1,6 @@
 # Сервисы
-from utils import is_phone, is_email, is_date
-from database import collection
+from .utils import is_phone, is_email, is_date
+from .database import collection
 
 
 async def define_a_template(data: dict[str, str]) -> dict[str, str]:
